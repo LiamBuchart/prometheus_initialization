@@ -16,4 +16,3 @@ documentation for details.
    :caption: Contents:
 
    content/define_vars
-   content/etl_nfdb_polygons
