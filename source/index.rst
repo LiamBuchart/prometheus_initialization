@@ -15,4 +15,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   contents/etl_nfdb_polygons
+   content/define_vars
+   content/etl_nfdb_polygons
