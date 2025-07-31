@@ -3,7 +3,7 @@ import streamlit_folium as st_folium
 import streamlit as st
 
 # return the lat lon coordinates of the clicked point
-def get_coordinates():
+def get_coordinates(m):
     """
     Function to get the coordinates of a clicked point on the map.
     """
